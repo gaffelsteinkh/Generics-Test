@@ -1,0 +1,14 @@
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.AssemblyInfoInputs.cache
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.AssemblyInfo.cs
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\bin\Debug\net10.0\Generics.exe
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\bin\Debug\net10.0\Generics.deps.json
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\bin\Debug\net10.0\Generics.runtimeconfig.json
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\bin\Debug\net10.0\Generics.dll
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\bin\Debug\net10.0\Generics.pdb
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.dll
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\refint\Generics.dll
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.pdb
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.genruntimeconfig.cache
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\ref\Generics.dll
