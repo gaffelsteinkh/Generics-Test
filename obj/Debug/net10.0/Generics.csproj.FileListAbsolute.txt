@@ -12,3 +12,4 @@ C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debu
 C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.pdb
 C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.genruntimeconfig.cache
 C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\ref\Generics.dll
+C:\Users\Morten\Desktop\Prosjekter\C# BackEnd\Modul 2\Oppgaver\Generics\obj\Debug\net10.0\Generics.sourcelink.json

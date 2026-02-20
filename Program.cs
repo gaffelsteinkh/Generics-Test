@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 using Generics.Models;
 
 
@@ -11,3 +12,9 @@ var divide = GenericCalc<int>.Div(138, 2);
 var doubleDiv = GenericCalc<double>.Div(138.138, 2);
 
 Console.WriteLine($"Result for DivFunc, ints: {divide}\nResult for DivFunc, double: {doubleDiv}");
+
+Conatianer<string> conatianerString = new();
+
+conatianerString.Add("Shitbox Test");
+var sopp = conatianerString.GetByIndex(0);
+Console.WriteLine(sopp);
