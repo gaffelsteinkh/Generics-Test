@@ -5,10 +5,16 @@ using Generics.Interface;
 
 namespace Generics.Models;
 
-public class Conatianer<T> : IContainer<T>
+public class Container<T> : IContainer<T>
 {
     public List<T> GoggenFIles = new();
     public void Add(T Items) => GoggenFIles.Add(Items);
+
+    public T[] GetAll()
+    {
+        return GoggenFIles.ToArray();
+    }
+    
     public T GetByIndex(int index)
     {
         if (index < 0 || index >= GoggenFIles.Count)
@@ -17,4 +23,5 @@ public class Conatianer<T> : IContainer<T>
         }
         return GoggenFIles[index];
     }
+
 }

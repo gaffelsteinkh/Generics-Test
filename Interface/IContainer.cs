@@ -7,5 +7,5 @@ public interface IContainer<T>
 {
     void Add(T Items);
     T GetByIndex(int index);
-
+    T[] GetAll();
 }
