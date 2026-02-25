@@ -18,7 +18,7 @@ Console.WriteLine($"Result for DivFunc, ints: {divide}\nResult for DivFunc, doub
 
 Container<string> containerString = new();
 var antall = containerString.GetAll().Length;
-Console.WriteLine($"there is currently {antall} number of objects in the list");
+Console.WriteLine($"\nthere is currently {antall} number of objects in the list");
 
 
 Console.WriteLine("Add something to the list:");
@@ -40,5 +40,5 @@ foreach (string things in listaa)
     Console.WriteLine(things);
 }
 
-Console.WriteLine("Testing GetByIndex func");
+Console.WriteLine("\nTesting GetByIndex func");
 Console.WriteLine(containerString.GetByIndex(0));
